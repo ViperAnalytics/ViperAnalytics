@@ -1,3 +1,1 @@
-Fitter
-Happier
-Stronger
+Edited
